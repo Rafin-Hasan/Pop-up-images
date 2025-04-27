@@ -22,10 +22,7 @@ This project pays tribute to Cristiano Ronaldo, celebrating his journey through 
 - **HTML5**: Structuring the page.
 - **CSS3**: Styling and animations.
 
-## 📸 Screenshots
-
-![CR7 Fan Page Screenshot](https://example.com/screenshot.jpg)  
-*(Replace the above link with an actual screenshot of the project.)*
-
+Live link
+//Rafin-Hasan.github.io/Pop-up-images/
 ## 📂 Folder Structure
 
